@@ -1,19 +1,19 @@
 # Project name: My-first-data-analysis repository
 
 ...
-#Project objective:problem statement
+# Project objective: Problem statement
 
 
 
 ...
-#Data sourcing
+# Data sourcing
 
 
 
 ...
-Data transformation
+# Data transformation
 
 
 
 ...
-Findings and recommendation
+# Findings and recommendation
